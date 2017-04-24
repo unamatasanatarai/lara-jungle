@@ -17,6 +17,5 @@
         "psr-4":{
             "Unamatasanatarai\\Jungle\\" : "src/Unamatasanatarai/Jungle"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
