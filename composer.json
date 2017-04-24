@@ -1,0 +1,22 @@
+{
+    "name": "unamatasanatarai/lara-jungle",
+    "type": "library",
+    "description": "Laravel mish mash of unsorted usable things",
+    "homepage": "https://github.com/unamatasanatarai/lara-jungle",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Unamata Sanatarai",
+            "email": "unamatasanatarai@gmail.com",
+            "homepage": "https://github.com/unamatasanatarai/",
+            "role": "Chaos maid"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Unamatasanatarai\\Jungle\\" : "src/Unamatasanatarai/Jungle"
+        }
+    },
+    "minimum-stability": "dev"
+}
